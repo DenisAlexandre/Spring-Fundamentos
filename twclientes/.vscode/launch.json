@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<twclientes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "br.com.treinaweb.twclientes.App",
+            "projectName": "twclientes",
+            "args": ""
+        }
+    ]
+}
